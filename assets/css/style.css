@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 800px;
+}
+.contents .img{
+    max-width: 100%;
+    width: 100%;
+}
+p,ul,ol,pre,code{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.contents .title , h1,pre,code{
+    text-align: center;
+}
+.title{
+    font-size: 1.3rem;
+}
