@@ -2,19 +2,19 @@
     box-sizing: border-box;
 }
 
-.container{
+.contents{
     max-width: 800px;
+    margin: 0 auto;
 }
-.contents .img{
+.img{
     max-width: 100%;
-    width: 100%;
 }
 p,ul,ol,pre,code{
     margin-top: 60px;
     margin-bottom: 60px;
 }
 .contents .title , h1,pre,code{
-    text-align: center;
+    /* text-align: center; */
 }
 .title{
     font-size: 1.3rem;
